@@ -25,7 +25,7 @@
     "simple-youtube-api": "^5.0.2",
     "snekfetch": "^3.6.4",
     "sqlite": "^2.9.1",
-    "file-system": "11.3.0",
+   
     "sqlite3": "^4.0.0",
     "youtube-info": "^1.2.0",
     "ytdl-core": "^0.20.3"
